@@ -30,6 +30,11 @@ public class ProductArrayApplication {
         resultado =calculateProductArrayBasic(entrada);
         System.out.println("Probando "+Arrays.toString(entrada)+" - Resultado "+Arrays.toString(resultado));
         
+        
+        
+        
+        
+        
         entrada = new long[]{0, 1};
         resultado =calculateProductArrayBasic(entrada);
         System.out.println("Probando "+Arrays.toString(entrada)+" - Resultado "+Arrays.toString(resultado));
